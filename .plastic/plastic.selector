@@ -1,0 +1,4 @@
+repository "practica3D@zomotas@cloud"
+  path "/"
+    br "/main"
+    co "/main"
