@@ -4,5 +4,20 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/1texturas.unity
+    guid: 5e1c1d90e82238a4a9e399d239e1779f
+  - enabled: 1
+    path: Assets/Scenes/2texturas.unity
+    guid: 26b37ed99cec5f94ab13fdc38a6b7f24
+  - enabled: 1
+    path: Assets/Scenes/3reflejos.unity
+    guid: 6f0487f0f029c5649becf8c1b1f4f612
+  - enabled: 1
+    path: Assets/Scenes/4ilumina.unity
+    guid: 1c7231378f75bc047bb9ffaefb1df96f
+  - enabled: 1
+    path: Assets/Scenes/5animacion.unity
+    guid: 234c4c1a2ee79134799a9e7d70c7cdc9
   m_configObjects: {}
